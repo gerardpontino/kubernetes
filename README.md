@@ -1,5 +1,4 @@
 # Deploying a Kubernetes Cluster with K3S
-==================
 
 Please refer to [K3S Doccumentation](https://docs.k3s.io/) for more detailed instructions
 
